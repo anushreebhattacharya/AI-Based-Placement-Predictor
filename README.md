@@ -8,7 +8,7 @@ The platform combines **Machine Learning, MERN Stack, and Flask** to create an e
 
 ## 🚀 Live Demo
 
-> 🔗 **Live Application:** Coming Soon
+> 🔗 **Live Application:** https://ai-based-placement-predictor-n82l.vercel.app/
 
 ---
 
