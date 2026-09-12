@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5002/api",
+  baseURL: "https://ai-based-placement-predictor-1.onrender.com/api",
 });
 
 // Attach JWT automatically
